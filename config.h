@@ -3,7 +3,7 @@
 
 // Настройки Wi-Fi
 const char* ssid = "Pixel_4938";      
-const char* password = "sosiska123";  
+const char* password = "568745";  
 
 // Настройки MQTT
 const char* mqtt_broker = "broker.emqx.io"; 
